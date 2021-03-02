@@ -11,6 +11,7 @@ import time
 from tqdm import tqdm
 from engines.model import BiLSTM_CRFModel
 from engines.utils.metrics import metrics
+from engines.utils.io_functions import read_csv
 from tensorflow_addons.text.crf import crf_decode
 from transformers import TFBertModel, BertTokenizer
 
@@ -29,6 +30,16 @@ def train(configs, data_manager, logger):
     epoch = configs.epoch
     batch_size = configs.batch_size
 
+    train_df = read_csv(data_manager.train_file, names=['token', 'label'], delimiter=configs.delimiter)
+    if data_manager.dev_file is None:
+        # split the data into train and validation set
+        train_df, dev_df = train_df[:int(len(train_df)*0.9)], train_df[int(len(train_df)*0.9):]
+    else:
+        dev_df = read_csv(data_manager.dev_file, names=['token', 'label'], delimiter=configs.delimiter)
+
+    train_dataset = data_manager.get_dataset(train_df)
+    dev_dataset = data_manager.get_dataset(dev_df)
+
     # 优化器大致效果Adagrad>Adam>RMSprop>SGD
     if configs.optimizer == 'Adagrad':
         optimizer = tf.keras.optimizers.Adagrad(learning_rate=learning_rate)
@@ -44,10 +55,7 @@ def train(configs, data_manager, logger):
     if configs.use_bert:
         bert_model = TFBertModel.from_pretrained('bert-base-chinese')
         tokenizer = BertTokenizer.from_pretrained('bert-base-chinese')
-        X_train, y_train, att_mask_train, X_val, y_val, att_mask_val = data_manager.get_training_set()
     else:
-        X_train, y_train, X_val, y_val = data_manager.get_training_set()
-        att_mask_train, att_mask_val = np.array([]), np.array([])
         bert_model, tokenizer = None, None
 
     bilstm_crf_model = BiLSTM_CRFModel(configs, vocab_size, num_classes, configs.use_bert)
@@ -55,30 +63,19 @@ def train(configs, data_manager, logger):
     checkpoint_manager = tf.train.CheckpointManager(
         checkpoint, directory=checkpoints_dir, checkpoint_name=checkpoint_name, max_to_keep=max_to_keep)
 
-    num_iterations = int(math.ceil(1.0 * len(X_train) / batch_size))
-    num_val_iterations = int(math.ceil(1.0 * len(X_val) / batch_size))
     logger.info(('+' * 20) + 'training starting' + ('+' * 20))
     for i in range(epoch):
         start_time = time.time()
-        # shuffle train at each epoch
-        sh_index = np.arange(len(X_train))
-        np.random.shuffle(sh_index)
-        X_train = X_train[sh_index]
-        y_train = y_train[sh_index]
-        if configs.use_bert:
-            att_mask_train = att_mask_train[sh_index]
         logger.info('epoch:{}/{}'.format(i + 1, epoch))
-        for iteration in tqdm(range(num_iterations)):
+        for step, batch in tqdm(train_dataset.shuffle(len(train_dataset)).batch(batch_size).enumerate()):
             if configs.use_bert:
-                X_train_batch, y_train_batch, att_mask_batch = data_manager.next_batch(
-                    X_train, y_train, att_mask_train, start_index=iteration * batch_size)
+                X_train_batch, y_train_batch, att_mask_batch = batch
                 # 计算没有加入pad之前的句子的长度
                 inputs_length = tf.math.count_nonzero(X_train_batch, 1)
                 # 获得bert的模型输出
                 model_inputs = bert_model(X_train_batch, attention_mask=att_mask_batch)[0]
             else:
-                X_train_batch, y_train_batch = data_manager.next_batch(
-                    X_train, y_train, start_index=iteration * batch_size)
+                X_train_batch, y_train_batch = batch
                 # 计算没有加入pad之前的句子的长度
                 inputs_length = tf.math.count_nonzero(X_train_batch, 1)
                 model_inputs = X_train_batch
@@ -90,14 +87,14 @@ def train(configs, data_manager, logger):
             gradients = tape.gradient(loss, bilstm_crf_model.trainable_variables)
             # 反向传播，自动微分计算
             optimizer.apply_gradients(zip(gradients, bilstm_crf_model.trainable_variables))
-            if iteration % configs.print_per_batch == 0 and iteration != 0:
+            if step % configs.print_per_batch == 0 and step != 0:
                 batch_pred_sequence, _ = crf_decode(logits, transition_params, inputs_length)
                 measures, _ = metrics(
                     X_train_batch, y_train_batch, batch_pred_sequence, configs, data_manager, tokenizer)
                 res_str = ''
                 for k, v in measures.items():
                     res_str += (k + ': %.3f ' % v)
-                logger.info('training batch: %5d, loss: %.5f, %s' % (iteration, loss, res_str))
+                logger.info('training batch: %5d, loss: %.5f, %s' % (step, loss, res_str))
 
         # validation
         logger.info('start evaluate engines...')
@@ -112,15 +109,14 @@ def train(configs, data_manager, logger):
             for measure in configs.measuring_metrics:
                 val_labels_results[label][measure] = 0
 
-        for iteration in tqdm(range(num_val_iterations)):
+        for dev_batch in tqdm(dev_dataset.batch(batch_size)):
             if configs.use_bert:
-                X_val_batch, y_val_batch, att_mask_batch = data_manager.next_batch(
-                    X_val, y_val, att_mask_val, iteration * batch_size)
+                X_val_batch, y_val_batch, att_mask_batch = dev_batch
                 inputs_length_val = tf.math.count_nonzero(X_val_batch, 1)
                 # 获得bert的模型输出
                 model_inputs = bert_model(X_val_batch, attention_mask=att_mask_batch)[0]
             else:
-                X_val_batch, y_val_batch = data_manager.next_batch(X_val, y_val, iteration * batch_size)
+                X_val_batch, y_val_batch = dev_batch
                 inputs_length_val = tf.math.count_nonzero(X_val_batch, 1)
                 model_inputs = X_val_batch
             logits_val, log_likelihood_val, transition_params_val = bilstm_crf_model.call(
@@ -140,6 +136,8 @@ def train(configs, data_manager, logger):
         time_span = (time.time() - start_time) / 60
         val_res_str = ''
         dev_f1_avg = 0
+
+        num_val_iterations = int(math.ceil(1.0 * len(dev_dataset) / batch_size))
         for k, v in val_results.items():
             val_results[k] /= num_val_iterations
             val_res_str += (k + ': %.3f ' % val_results[k])
