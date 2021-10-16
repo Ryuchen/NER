@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time : 2020/9/13 3:18 下午
-# @Author : lishouxian
-# @Email : gzlishouxian@gmail.com
-# @File : configure.py
-# @Software: PyCharm
 import sys
 
 

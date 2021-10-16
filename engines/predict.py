@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time : 2020/9/13 3:18 下午
-# @Author : lishouxian
-# @Email : gzlishouxian@gmail.com
-# @File : predict.py
-# @Software: PyCharm
 import tensorflow as tf
 from engines.model import BiLSTM_CRFModel
 from engines.utils.extract_entity import extract_entity

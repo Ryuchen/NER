@@ -1,0 +1,41 @@
+①/O 部/O 分/O 规/O 范/O 经/O 营/O 的/O 大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 正/B-TIME 在/I-TIME 发/O 挥/O 着/O 积/O 极/O 作/O 用/O ，/O 对/O 企/O 业/O 生/ 产/O 流/O 通/O 起/O 到/O 了/O 重/O 要/O 的/O 支/O 撑/O 作/O 用/O ；/O
+
+
+
+②/O 来/O 自/O 政/B-ORG 府/I-ORG 特/O 别/O 是/O 中/B-ORG 央/I-ORG 部/I-ORG 委/I-ORG 的/O 管/O 制/O 越/O 来/O 越/O 严/O ,/O  /O 有/O 不/O 得/O 越/O 雷/O 池/O 半/O 步/O 之/O 要/O 求/O ，/O 然/O 而/O 全/O 国/O 各/O 地/O 大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 的/O 兴/O 办/O 热/O 潮/O 一/O 浪/O  /O 高/O 过/O 一/O 浪/O ；/O
+
+
+
+③/O 大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 相/O 关/O 领/O 域/O 一/O 些/O 风/O 险/O 事/O 件/O 屡/O 禁/O 不/O 止/O ，/O 还/O 在/O 不/O 断/O 出/O 现/O ，/O 引/O 发/O 社/O 会/O 各/O 界/O 的/O 广/O 泛/O 关/O 注/O 。/O
+
+
+
+2/O 0/O 世/O 纪/O 9/O 0/O 年/O 代/O 末/O ，/O 在/O 第/O 一/O 轮/O 电/O 子/O 商/O 务/O 热/O 兴/O 起/O 的/O 同/O 时/O ，/O 我/O 们/O 组/O 织/O 研/O 究/O 团/O 队/O 开/O 始/O 研/O 究/O 电/O 子/O 商/O 务/O 发/O 展/O 的/O 各/O 种/O 创/O 新/O 模/O 式/O ，/O 并/O 参/O 与/O 到/O 我/O 国/O 高/O 等/O 院/O 校/O 电/O 子/O 商/O 务/O 专/O 业/O 的/O 建/O 设/O 中/O 。/O
+
+
+
+2/O 0/O 0/O 1/O 年/O ，/O 有/O 幸/O 主/O 持/O 起/O 草/O 了/O 中/B-LOC 华/I-LOC 人/I-LOC 民/I-LOC 共/I-LOC 和/I-LOC 国/I-LOC 国/O 家/O 标/O 准/O 《/B-POL_B 大/I-POL_B 宗/I-POL_B 商/I-POL_B 品/I-POL_B 电/I-POL_B 子/I-POL_B 交/I-POL_B 易/I-POL_B 规/I-POL_B 范/I-POL_B 》/I-POL_B （/O G/B-POL_B B/I-POL_B //I-POL_B T/I-POL_B 1/I-POL_B 8/I-POL_B 7/I-POL_B 6/I-POL_B 9/I-POL_B ）/O ,/O  /O 2/O 0/O 0/O 3/O 年/O 该/O 项/O 国/B-POL_B 家/I-POL_B 标/I-POL_B 准/I-POL_B 修/O 订/O 颁/O 布/O 实/O 施/O ，/O 成/O 为/O 至/O 今/O 为/O 止/O 指/O 导/O 我/O 国/O 大/B-COM 宗/I-COM 商/I-COM 品/I-COM 电/O 子/O 商/O 务/O 发/O 展/O 的/O 重/O 要/O 依/O 据/O 。/O
+
+
+
+从/O 此/O ，/O 我/O 们/O 将/O 大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 的/O 发/O 展/O  /O 和/O 建/O 设/O 作/O 为/O 研/O 究/O 团/O 队/O 的/O 重/O 要/O 研/O 究/O 内/O 容/O ，/O 密/O 切/O 关/O 注/O 国/O 际/O 和/O 国/O 内/O 的/O 有/O 关/O 进/O 展/O ，/O 开/O 展/O 了/O  /O 一/O 系/O 列/O 的/O 研/O 究/O 并/O 实/O 质/O 性/O 地/O 为/O 政/B-ORG 府/I-ORG 和/O 企/O 业/O 提/O 供/O 咨/O 询/O 服/O 务/O 。/O
+
+
+
+大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 监/B-ORG 督/I-ORG 管/I-ORG 理/I-ORG 机/I-ORG 构/I-ORG 主/O 要/O 包/O 括/O 商/B-ORG 务/I-ORG 主/I-ORG 管/I-ORG 部/I-ORG 门/I-ORG 和/O 金/B-ORG 融/I-ORG 主/I-ORG 管/I-ORG 部/I-ORG 门/I-ORG ，/O 有/O 商/B-ORG 务/I-ORG 部/I-ORG 、/O 证/B-ORG 监/I-ORG 会/I-ORG 、/O 中/B-ORG 国/I-ORG 人/I-ORG 民/I-ORG 银/I-ORG 行/I-ORG 等/O ，/O  /O 以/O 及/O 政/B-ORG 府/I-ORG 主/I-ORG 管/I-ORG 部/I-ORG 门/I-ORG 的/O 地/B-ORG 方/I-ORG 办/I-ORG 事/I-ORG 机/I-ORG 构/I-ORG ，/O 如/O 金/B-ORG 融/I-ORG 办/I-ORG 等/O 。/O
+
+
+
+国/B-ORG 务/I-ORG 院/I-ORG 2/O 0/O 1/O 1/O 年/O 发/O 布/O 《/B-POL_L 国/I-POL_L 务/I-POL_L 院/I-POL_L 关/I-POL_L 于/I-POL_L 清/I-POL_L 理/I-POL_L 整/I-POL_L 顿/I-POL_L 各/I-POL_L 类/I-POL_L 交/I-POL_L 易/I-POL_L 场/I-POL_L 所/I-POL_L 切/I-POL_L 实/I-POL_L 防/I-POL_L 范/I-POL_L 金/I-POL_L 融/I-POL_L 风/I-POL_L 险/I-POL_L 的/I-POL_L 决/I-POL_L 定/I-POL_L 》/I-POL_L （/O 国/B-POL_L 发/I-POL_L （/I-POL_L 2/I-POL_L 0/I-POL_L 1/I-POL_L 1/I-POL_L ）/I-POL_L 3/I-POL_L 8/I-POL_L 号/I-POL_L ）/O 和/O 国/B-ORG 务/I-ORG 院/I-ORG 办/I-ORG 公/I-ORG 厅/I-ORG 2/O 0/O 1/O 2/O 年/O 发/O 布/O 《/O 关/O 于/O 清/O 理/O 整/O 顿/O 各/O 类/O 交/O 易/O 场/O 所/O 的/O 实/O 施/O 意/O 见/O 》/O （/O 国/O 办/O 发/O （/O 2/O 0/O 1/O 2/O ）/O  /O 3/O 7/O 号/O ）/O 以/O 来/O ，/O 各/O 省/O （/O 直/O 辖/O 市/O 、/O 自/O 治/O 区/O ）/O 政/O 府/O 按/O 照/O 清/O 理/O 整/O 顿/O 各/O 类/O 交/O 易/O 场/O 所/O 部/O 际/O 联/O 席/O  /O 会/O 议/O 要/O 求/O ，/O 陆/O 续/O 开/O 展/O 辖/O 区/O 内/O 清/O 理/O 整/O 顿/O 检/O 查/O 验/O 收/O 工/O 作/O 。/O 在/O 2/O 0/O 1/O 4/O 年/O 施/O 行/O 的/O 商/B-ORG 务/I-ORG 部/I-ORG 、/O 证/O  /O 监/O 会/O 、/O 中/B-ORG 国/I-ORG 人/I-ORG 民/I-ORG 银/I-ORG 行/I-ORG 联/O 合/O 发/O 布/O 的/O 《/O 特/O 别/O 规/O 定/O 》/O 指/O 导/O 下/O ，/O 全/O 国/O 各/O 地/O 方/O 政/O 府/O 陆/O 续/O 出/O 台/O  /O 了/O 自/O 己/O 的/O 管/O 理/O 办/O 法/O 细/O 则/O ，/O 如/O 《/O 中/B-LOC 国/I-LOC （/O 上/B-LOC 海/I-LOC ）/O 自/O 由/O 贸/O 易/O 试/O 验/O 区/O 大/O 宗/O 商/O 品/O 现/O 货/O 市/O 场/O 交/O  /O 易/O 管/O 理/O 规/O 则/O （/O 试/O 行/O ）/O 》/O （/O 2/O 0/O 1/O 4/O 年/O 1/O 1/O 月/O 1/O 7/O 日/O 发/O 布/O ）/O 、/O 《/O 江/B-LOC 苏/I-LOC 省/I-LOC 交/O 易/O 场/O 所/O 监/O 督/O 管/O 理/O 办/O 法/O （/O 试/O  /O 行/O ）/O 》/O （/O 2/O 0/O 1/O 3/O 年/O 6/O 月/O 8/O 日/O 发/O 布/O ）/O 、/O 《/O 福/B-LOC 建/I-LOC 省/I-LOC 交/O 易/O 场/O 所/O 管/O 理/O 办/O 法/O 》/O （/O 2/O 0/O 1/O 4/O 年/O 7/O 月/O 1/O 日/O 起/O  /O 施/O 行/O ）/O 、/O 《/O 吉/B-LOC 林/I-LOC 省/I-LOC 交/O 易/O 场/O 所/O 监/O 督/O 管/O 理/O 暂/O 行/O 办/O 法/O （/O 试/O 行/O ）/O 》/O （/O 2/O 0/O 1/O 5/O 年/O 1/O 月/O 1/O 日/O 起/O 施/O 行/O ）/O 。/O
+
+
+
+其/O 中/O ，/O 江/B-LOC 苏/I-LOC 省/I-LOC 更/O 是/O 走/O 在/O 了/O 全/O 国/O 地/O 方/O 政/O 府/O 市/O 场/O 监/O 管/O 实/O 践/O 的/O 前/O 列/O ，/O 从/O 最/B-TIME 初/I-TIME 的/O 要/O 求/O 辖/O 区/O  /O 内/O 各/O 大/O 宗/O 商/O 品/O 电/O 子/O 交/O 易/O 市/O 场/O 每/O 天/O 上/O 报/O 经/O 营/O 报/O 表/O 数/O 据/O ，/O 发/O 展/O 到/O 建/O 立/O 国/O 内/O 首/O 家/O 省/O 级/O 交/O  /O 易/O 场/O 所/O 登/O 记/O 结/O 算/O 中/O 心/O —/O —/O 江/B-LOC 苏/I-LOC 交/O 易/O 场/O 所/O 登/O 记/O 结/O 算/O 有/O 限/O 公/O 司/O （/O 简/O 称/O 江/B-LOC 苏/I-LOC 结/O 算/O ）/O 。/O 江/B-LOC 苏/I-LOC  /O 结/O 算/O 设/O 立/O 于/O 2/O 0/O 1/O 4/O 年/O 1/O 月/O ，/O 由/O 江/B-ORG 苏/I-ORG 省/I-ORG 人/I-ORG 民/I-ORG 政/I-ORG 府/I-ORG 金/O 融/O 工/O 作/O 办/O 公/O 室/O 发/O 起/O ，/O 江/B-LOC 苏/I-LOC 当/O 地/O 领/O 头/O  /O 企/O 业/O 参/O 与/O 设/O 立/O 。/O
+
+
+
+它/O 的/O 成/O 立/O 标/O 志/O 着/O 江/B-LOC 苏/I-LOC 省/I-LOC 将/O 建/O 成/O 集/O 中/O 、/O 统/O 一/O 的/O 交/B-TAE_B 易/I-TAE_B 场/I-TAE_B 所/I-TAE_B 登/I-TAE_B 记/I-TAE_B 结/I-TAE_B 算/I-TAE_B 系/I-TAE_B 统/I-TAE_B 和/O 机/O 制/O ，/O 有/O 利/O 于/O 打/O 破/O 现/O 有/O 的/O 分/O 散/O 登/B-PHA 记/I-PHA 结/I-PHA 算/I-PHA 体/O 系/O ，/O 防/O 控/O 市/O 场/O 风/O 险/O 和/O 提/O 高/O 市/O 场/O 效/O 率/O ，/O 提/O 升/O 江/B-TAE_P 苏/I-TAE_P 交/I-TAE_P 易/I-TAE_P 场/I-TAE_P 所/I-TAE_P 的/O 整/O 体/O 公/O 信/O 力/O 和/O 保/O 障/O 江/B-TAE_P 苏/I-TAE_P 各/I-TAE_P 类/I-TAE_P 交/I-TAE_P 易/I-TAE_P 场/I-TAE_P 所/I-TAE_P 健/O 康/O 规/O 范/O 发/O 展/O 。/O 各/O 大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 通/O 过/O 接/O 入/O 江/B-LOC 苏/I-LOC 结/B-PHA 算/I-PHA ，/O 将/O 实/O 现/O 交/O 易/O 体/O 系/O 中/O 登/B-PHA 记/I-PHA 、/O 交/B-PHA 易/I-PHA 、/O  /O 结/B-PHA 算/I-PHA 三/O 项/O 业/O 务/O 的/O 分/O 离/O ，/O 交/B-PHA 易/I-PHA 市/I-PHA 场/I-PHA 将/O 只/O 专/O 注/O 于/O 提/O 供/O 交/O 易/O 平/O 台/O 服/O 务/O ，/O 而/O 所/O 有/O 的/O 登/B-PHA 记/I-PHA 开/I-PHA 户/I-PHA 、/O 交/B-PHA 易/I-PHA 监/I-PHA 控/I-PHA 、/O 资/B-PHA 金/I-PHA 结/I-PHA 算/I-PHA 都/O 将/O 通/O 过/O 江/B-LOC 苏/I-LOC 结/O 算/O 完/O 成/O 。/O 据/O 已/O 完/O 成/O 接/O 入/O 江/B-LOC 苏/I-LOC 结/O 算/O 的/O 江/B-TAE_P 苏/I-TAE_P 大/I-TAE_P 圆/I-TAE_P 银/I-TAE_P 泰/I-TAE_P 贵/I-TAE_P 金/I-TAE_P 属/I-TAE_P 现/I-TAE_P 货/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 介/O 绍/O ，/O 这/O 一/O  /O “/O 新/O 交/O 易/O 模/O 式/O 的/O 意/O 义/O 在/O 于/O ，/O  /O 政/O 府/O 监/O 管/O 层/O 不/O 仅/O 能/O 够/O 直/O 接/O 监/O 控/O 到/O 所/O 有/O 的/O 交/O 易/O 数/O 据/O 、/O 资/O 金/O 动/O 向/O ，/O 而/O 且/O 能/O 够/O 全/O 面/O 掌/O  /O 握/O 到/O 投/O 资/O 者/O 的/O 情/O 况/O ，/O 进/O 而/O 从/O 根/O 本/O 上/O 杜/B-PER 绝/I-PER 违/O 规/O 行/O 为/O 的/O 出/O 现/O ，/O 有/O 效/O 保/O 障/O 投/O 资/O 者/O 的/O 利/O  /O 益/B-PER ”/O 。/O 江/B-LOC 苏/I-LOC 省/I-LOC 为/O 了/O 推/O 进/O 此/O 项/O 工/O 作/O 顺/O 利/O 展/O 开/O ，/O 在/O 《/O 江/B-LOC 苏/I-LOC 省/I-LOC 交/O 易/O 场/O 所/O 监/O 督/O 管/O 理/O 办/O 法/O  /O （/O 试/O 行/O ）/O 》/O “/O 第/O 四/O 章/O 业/O 务/O 经/O 营/O 与/O 风/O 险/O 控/O 制/O ”/O 中/O 明/O 确/O 规/O 定/O ，/O “/O 第/O 三/O 十/O 八/O 条/O 全/O 省/O 交/O 易/O 场/O  /O 所/O 逐/O 步/O 实/O 行/O 集/O 中/O 统/O 一/O 的/O 登/O 记/O 结/O 算/O 制/O 度/O 。/O
+
+
+
+交/O 易/O 场/O 所/O 的/O 计/O 算/O 机/O 系/O 统/O 及/O 业/O 务/O 流/O 程/O 应/O 满/O 足/O 集/O 中/O 统/O 一/O 登/B-PHA 记/I-PHA 结/I-PHA 算/I-PHA 的/O 要/O 求/O ”/O 。/O

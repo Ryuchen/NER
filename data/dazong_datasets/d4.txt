@@ -1,0 +1,37 @@
+大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 的/O 目/O 标/O 市/O 场/O 按/O 服/O 务/O 范/O 围/O 与/O 分/O 布/O 区/O 域/O 可/O 以/O 分/O 为/O 全/O 国/O 性/O 市/O  /O 场/O 和/O 区/O 域/O 性/O 市/O 场/O 。/O
+
+
+
+以/O 市/O 场/O 注/O 册/O 所/O 在/O 地/O 进/O 行/O 统/O 计/O 划/O 分/O ，/O 大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 已/O 覆/O  /O 盖/O 3/O 2/O 个/O 省/O （/O 自/O 治/O 区/O 、/O 直/O 辖/O 市/O ）/O 与/O 特/O 别/O 行/O 政/O 区/O ，/O 每/O 个/O 省/O 份/O 的/O 市/O 场/O 数/O 量/O 如/O 表/O 5/O -/O 3/O 所/O 示/O ,/O  /O 这/O 些/O 市/O 场/O 中/O 既/O 有/O 全/O 国/O 性/O 市/O 场/O 也/O 有/O 区/O 域/O 性/O 市/O 场/O ，/O 但/O 是/O 地/O 区/O 差/O 异/O 明/O 显/O ，/O 东/B-LOC 部/I-LOC 沿/I-LOC 海/I-LOC 地/I-LOC 区/I-LOC  /O 分/O 布/O 最/O 多/O ，/O 中/O 部/O 次/O 之/O ，/O 西/O 部/O 最/O 少/O 。/O
+
+
+
+与/O 消/O 费/O 品/O 领/O 域/O 电/O 子/O 商/O 务/O 发/O 展/O 相/O 同/O 步/O ，/O 2/O 0/O 0/O 2/O 年/O 之/O 后/O ，/O 在/O 大/O 宗/O 商/O 品/O 和/O 生/O 产/O 资/O 料/O 领/O 域/O ，/O 各/O 种/O 电/O 子/O 商/O 务/O 创/O 新/O 活/O 动/O 也/O 在/O 不/O 断/O 展/O 开/O ，/O 其/O 中/O ，/O 大/O 宗/O 商/O 品/O 电/O 子/O 交/O 易/O 市/O 场/O 更/O 是/O 成/O  /O 为/O 一/O 个/O 典/O 型/O 的/O 发/O 展/O 方/O 向/O 。/O
+
+
+
+大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 是/O 利/O 用/O 电/O 子/O 商/O 务/O 、/O 互/O 联/O 网/O 、/O 物/O 联/O 网/O 、/O 大/O 数/O 据/O 、/O 云/B-LOC 计/O 算/O 等/O 先/O 进/O 技/O 术/O 手/O 段/O 为/O 大/O 宗/O 商/O 品/O 提/O 供/O 交/B-PHA 易/I-PHA 服/I-PHA 务/I-PHA 、/O 物/B-PHA 流/I-PHA 服/I-PHA 务/I-PHA 、/O 金/B-PHA 融/I-PHA 服/I-PHA 务/I-PHA 和/O 信/B-PHA 息/I-PHA 服/I-PHA 务/I-PHA 的/O 电/O 子/O 商/O 务/O 平/O 台/O 。/O
+
+
+
+截/O 至/O 2/O 0/O 1/O 5/O 年/O 年/O 底/O ，/O 据/O 中/B-ORG 国/I-ORG 物/I-ORG 流/I-ORG 与/I-ORG 采/I-ORG 购/I-ORG 联/I-ORG 合/I-ORG 会/I-ORG 大/I-ORG 宗/I-ORG 商/I-ORG 品/I-ORG 交/I-ORG 易/I-ORG 市/I-ORG 场/I-ORG 流/I-ORG 通/I-ORG 分/I-ORG 会/I-ORG 的/O 不/O 完/O 全/O 统/O 计/O ，/O 我/O 国/O 各/O 类/O 大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 有/O 1/O 0/O 2/O 1/O  /O 家/O ，/O 涉/O 及/O 石/B-COM_T4 油/I-COM_T4 、/O 化/B-COM_T4 工/I-COM_T4 、/O 钢/B-COM_T4 材/I-COM_T4 、/O 塑/B-COM_T4 料/I-COM_T4 、/O 糖/B-COM_T4 、/O 橡/B-COM_T4 胶/I-COM_T4 、/O 茧/B-COM_T4 丝/I-COM_T4 、/O 粮/B-COM_T1 食/I-COM_T1 、/O 木/B-COM_T1 材/I-COM_T1 、/O 煤/B-COM_T4 炭/I-COM_T4 等/O 诸/O 多/O 商/O 品/O 领/O 域/O ，/O 分/O 布/O 范/O 围/O 遍/O 及/O 北/B-LOC 京/I-LOC 、/O 上/B-LOC 海/I-LOC 、/O 天/B-LOC 津/I-LOC 、/O 重/B-LOC 庆/I-LOC 、/O 浙/B-LOC 江/I-LOC 、/O 吉/B-LOC 林/I-LOC 、/O 广/B-LOC 西/I-LOC 、/O 广/B-LOC 东/I-LOC 、/O  /O 安/B-LOC 徽/I-LOC 、/O 江/B-LOC 苏/I-LOC 、/O 山/B-LOC 东/I-LOC 、/O 海/B-LOC 南/I-LOC 等/O 省/O （/O 自/O 治/O 区/O 、/O 直/O 辖/O 市/O ）/O 。/O
+
+
+
+大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 由/O 于/O 交/B-PHA 易/I-PHA 品/I-PHA 种/I-PHA 、/O 贸/O 易/O 习/O 惯/O 和/O 物/B-PHA 流/I-PHA 水/I-PHA 平/I-PHA 等/O 因/O 素/O 制/O 约/O ，/O 有/O 的/O 只/O 能/O 覆/O 盖/O 区/O 域/O 性/O 市/O 场/O ，/O 而/O 有/O 的/O 发/O 展/O 较/O 早/O 、/O 成/O 长/O 迅/O 速/O 的/O 大/O 宗/O 商/O 品/O 电/O 子/O 交/O 易/O 市/O 场/O 可/O 以/O 提/O 供/O 全/O 国/O 性/O 的/O 服/O 务/O 。/O
+
+
+
+例/O 如/O ，/O 广/B-TAE_P 西/I-TAE_P 糖/I-TAE_P 网/I-TAE_P 自/O 2/O 0/O 0/O 3/O 年/O 6/O 月/O 成/O 立/O 以/O 来/O ，/O 打/O 造/O 了/O “/O 一/O 个/O 中/O  /O 心/O ，/O 八/O 大/O 区/O 域/O ”/O 这/O 一/O 国/O 内/O 最/O 完/O 善/O 的/O 食/O 糖/O 物/O 流/O 配/O 送/O 服/O 务/O 体/O 系/O ，/O 先/O 后/O 在/O 柳/B-LOC 州/I-LOC 、/O 南/B-LOC 宁/I-LOC 、/O 广/B-LOC 州/I-LOC 、/O 昆/B-LOC 明/I-LOC 、/O 郑/B-LOC 州/I-LOC 、/O 武/B-LOC 汉/I-LOC 、/O 上/B-LOC 海/I-LOC 等/O 食/O 糖/O 重/O 要/O 集/O 散/O 地/O 设/O 立/O 四/O 个/O 分/O 公/O 司/O ，/O 在/O 全/O 国/O 建/O 有/O  /O 九/O 个/O 客/O 服/O 中/O 心/O 。/O
+
+
+
+在/O 全/O 国/O 主/O 要/O 食/O 糖/O 产/O 销/O 区/O 设/O 立/O 配/B-PHA 送/I-PHA 仓/I-PHA 点/I-PHA 1/O 4/O 0/O 多/O 个/O ，/O 整/O 合/O 利/O 用/O 社/O 会/O 仓/O 储/O 资/O 源/O 1/O 0/O 0/O 多/O 万/O 平/O 方/O 米/O ，/O 截/O 至/O 2/O 0/O 1/O 3/O 年/O 7/O 月/O 3/O 1/O 日/O ，/O 广/B-TAE_P 西/I-TAE_P 糖/I-TAE_P 网/I-TAE_P 全/O 国/O 客/O 户/O 达/O 到/O 4/O 1/O 0/O 3/O  /O 户/O ，/O 交/B-PHA 收/I-PHA 量/I-PHA 从/O 0/O 2/O //O 0/O 3/O 榨/O 季/O 的/O 5/O 0/O 万/O 吨/O （/O 双/B-PHA 边/I-PHA ）/O 提/O 高/O 到/O 1/O 3/O //O 1/O 4/O 榨/O 季/O 的/O 5/O 0/O 0/O 多/O 万/O 吨/O （/O 双/B-PHA 边/I-PHA ）/O ，有/O 效/O 发/O 挥/O 了/O 活/O 跃/O 食/B-COM_T4 糖/I-COM_T4 交/O 易/O 、/O 促/O 进/O 食/B-COM_T4 糖/I-COM_T4 流/O 通/O 的/O 积/O 极/O 作/O 用/O 。/O
+
+
+
+山/B-TAE_P 东/I-TAE_P 寿/I-TAE_P 光/I-TAE_P 蔬/I-TAE_P 菜/I-TAE_P 批/I-TAE_P 发/I-TAE_P 市/I-TAE_P 场/I-TAE_P 的/O 辐/O 射/O 范/O 围/O 已/O 达/O 2/O 0/O 多/O 个/O 省/O 份/O ，/O 成/O 为/O 全/O 国/O 最/O 大/O 的/O 蔬/O 菜/O 批/O 发/O 集/O 散/O 中/O 心/O 、/O 价/O 格/O 形/O 成/O 中/O 心/O 及/O 信/O 息/O 汇/O 集/O 、/O 传/O 递/O 中/O 心/O 。/O
+
+
+
+上/B-TAE_P 海/I-TAE_P 大/I-TAE_P 宗/I-TAE_P 钢/I-TAE_P 铁/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 中/I-TAE_P 心/I-TAE_P 在/O 上/B-LOC 海/I-LOC 、/O 浙/B-LOC 江/I-LOC 、/O 江/B-LOC 苏/I-LOC 、/O 天/B-LOC 津/I-LOC 、/O 广/B-LOC 东/I-LOC 等/O 省/O （/O 直/O 辖/O 市/O ）/O 设/O 立/O 了/O 4/O 0/O 多/O 个/O 大/O 型/O 专/O 用/O 指/O 定/O 交/B-PHA 收/I-PHA 仓/I-PHA 库/I-PHA ，/O 为/O 众/O 多/O 交/O 易/O 商/O 提/O  /O 供/O 网/O 络/O 化/O 的/O 实/O 地/O 仓/O 储/O 服/O 务/O 。/O

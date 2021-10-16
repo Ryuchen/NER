@@ -1,23 +1,12 @@
 # 实体识别
 此仓库是基于Tensorflow2.3的NER任务项目，既可以使用BiLSTM-Crf模型，也可以使用Bert-BiLSTM-Crf模型，提供可配置文档，配置完可直接运行。
 
-## 更新历史
-日期|版本|描述
-:---|:---|---
-2020-01-12|v1.0.0|初始仓库
-2020-04-08|v1.1.0|重构项目代码，添加必要的注释
-2020-04-13|v1.2.0|分别打印出每一个实体类别的指标
-2020-09-09|v2.0.0|更新到tensorflow2.3版本
-2020-09-10|v2.1.0|取消批量测试方法，简化预测的逻辑
-2020-09-13|v3.0.0|增加Bert做embedding，通过配置支持BiLSTM-Crf和Bert-BiLSTM-Crf两种模型的训练与预测
-2021-03-02|v2.5.0|使用Dataset替换自己写的数据加载器来加载数据
-
 ## 环境
 * python 3.6.7
 * **CPU:** tensorflow==2.3.0
 * **GPU:** tensorflow-gpu==2.3.0
 * tensorflow-addons==0.11.2
-* transformers==3.0.2
+* transformers==4.4.0
 
 集群下推荐GPU加速训练，其他环境见requirements.txt
 

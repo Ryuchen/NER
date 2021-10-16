@@ -1,0 +1,218 @@
+2021-05-06 23:39:10
+++++++++++++++++++++++++++++++++++++++++CONFIGURATION SUMMARY++++++++++++++++++++++++++++++++++++++++
+ Status:
+     mode                 : train
+ ++++++++++++++++++++++++++++++++++++++++
+ Datasets:
+     datasets         fold: data/dazong_datasets
+     train            file: data.csv
+     validation       file: None
+     vocab             dir: data/dazong_datasets/vocabs
+     delimiter            : b
+     use              bert: False
+     checkpoints       dir: checkpoints/datasets_bilstm-crf
+     log               dir: data/dazong_datasets/logs
+ ++++++++++++++++++++++++++++++++++++++++
+Labeling Scheme:
+     label          scheme: BIO
+     label           level: 2
+     suffixes             : ['TAE', 'TAE_P', 'TAE_B', 'TAE_S', 'COM', 'COM_T1', 'COM_T2', 'COM_T3', 'COM_T4', 'COM_T5', 'TIME', 'POL', 'POL_L', 'POL_P', 'POL_B', 'LOC', 'ORG', 'PAT', 'PHA', 'JOU', 'PER']
+     measuring     metrics: ['precision', 'recall', 'f1', 'accuracy']
+ ++++++++++++++++++++++++++++++++++++++++
+Model Configuration:
+     embedding         dim: 300
+     max  sequence  length: 300
+     hidden            dim: 200
+     CUDA  VISIBLE  DEVICE: 0
+     seed                 : 42
+ ++++++++++++++++++++++++++++++++++++++++
+ Training Settings:
+     epoch                : 300
+     batch            size: 20
+     dropout              : 0.5
+     learning         rate: 0.001
+     optimizer            : Adagrad
+     checkpoint       name: model
+     max       checkpoints: 3
+     print       per_batch: 20
+     is     early     stop: False
+     patient              : 5
+++++++++++++++++++++++++++++++++++++++++CONFIGURATION SUMMARY END++++++++++++++++++++++++++++++++++++++++
+loading vocab...
+dataManager initialed...
+mode: train
+loading data...
+validating set is not exist, built...
+training set size: 153, validating set size: 18
+++++++++++++++++++++training starting++++++++++++++++++++
+epoch:1/300
+start evaluate engines...
+label: TAE, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_S, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T1, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T2, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T3, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T4, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T5, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TIME, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_L, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: LOC, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: ORG, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PAT, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PHA, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: JOU, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PER, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+time consumption:0.23(min), precision: 0.002 recall: 0.013 f1: 0.003 accuracy: 0.369 
+saved the new best model with f1: 0.003
+epoch:2/300
+start evaluate engines...
+label: TAE, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_S, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T1, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T2, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T3, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T4, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T5, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TIME, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_L, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: LOC, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: ORG, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PAT, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PHA, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: JOU, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PER, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+time consumption:0.10(min), precision: 0.002 recall: 0.014 f1: 0.003 accuracy: 0.377 
+saved the new best model with f1: 0.003
+epoch:3/300
+start evaluate engines...
+label: TAE, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_S, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T1, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T2, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T3, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T4, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T5, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TIME, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_L, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: LOC, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: ORG, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PAT, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PHA, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: JOU, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PER, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+time consumption:0.10(min), precision: 0.000 recall: 0.000 f1: -1.000 accuracy: 0.553 
+epoch:4/300
+start evaluate engines...
+label: TAE, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_S, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T1, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T2, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T3, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T4, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T5, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TIME, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_L, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: LOC, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: ORG, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PAT, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PHA, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: JOU, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PER, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+time consumption:0.10(min), precision: -1.000 recall: 0.000 f1: -1.000 accuracy: 0.774 
+epoch:5/300
+start evaluate engines...
+label: TAE, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_S, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T1, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T2, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T3, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T4, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T5, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TIME, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_L, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: LOC, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: ORG, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PAT, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PHA, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: JOU, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PER, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+time consumption:0.10(min), precision: -1.000 recall: 0.000 f1: -1.000 accuracy: 0.738 
+epoch:6/300
+start evaluate engines...
+label: TAE, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_S, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T1, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T2, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T3, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T4, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T5, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TIME, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_L, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: LOC, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: ORG, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PAT, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PHA, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: JOU, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PER, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+time consumption:0.10(min), precision: -1.000 recall: 0.000 f1: -1.000 accuracy: 0.750 
+epoch:7/300
+start evaluate engines...
+label: TAE, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TAE_S, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T1, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T2, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T3, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T4, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: COM_T5, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: TIME, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_L, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_P, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: POL_B, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: LOC, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: ORG, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PAT, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PHA, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: JOU, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+label: PER, precision: 0.000 recall: 0.000 f1: 0.000 accuracy: 0.000 
+time consumption:0.10(min), precision: -1.000 recall: 0.000 f1: -1.000 accuracy: 0.766 
+epoch:8/300

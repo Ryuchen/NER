@@ -1,13 +1,8 @@
-# -*- coding: utf-8 -*-
-# @Time : 2020/9/10 7:15 下午
-# @Author : lishouxian
-# @Email : gzlishouxian@gmail.com
-# @File : main.py
-# @Software: PyCharm
-import argparse
-import random
-import numpy as np
 import os
+import random
+import argparse
+import numpy as np
+
 from engines.train import train
 from engines.data import DataManager, BertDataManager
 from engines.configure import Configure

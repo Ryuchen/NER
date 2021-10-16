@@ -1,0 +1,153 @@
+目/O 前/O ，除/O 天/B-LOC 津/I-LOC 和/O 云/B-LOC 南/I-LOC 外/O ，/O 全/O 国/O 其/O 他/O 省/O 、/O 直/O 辖/O 市/O 、/O 自/O 治/O 区/O 和/O 计/O 划/O 单/O 列/O 市/O 都/O 已/O  /O 通/O 过/O 清/O 理/O 整/O 顿/O 工/O 作/O 小/O 组/O 验/O 收/O 。/O
+
+
+
+天/B-LOC 津/I-LOC 由/O 于/O 渤/B-TAE_P 海/I-TAE_P 商/I-TAE_P 品/I-TAE_P 交/I-TAE_P 易/I-TAE_P 所/I-TAE_P 和/O 津/B-TAE_P 贵/I-TAE_P 所/I-TAE_P 的/O 交/O 易/O 模/O 式/O 等/O  /O 原/O 因/O ，/O 迟/O 迟/O 未/O 获/O 验/O 收/O ，/O 目/O 前/O 这/O 两/O 家/O 交/O 易/O 所/O 都/O 在/O 寻/O 求/O 向/O 现/B-PHA 货/I-PHA 交/I-PHA 易/I-PHA 转/O 型/O ，/O 推/O 出/O 了/O 新/O 的/O 交/O 易/O 模/O 式/O ；/O
+
+
+
+云/B-LOC 南/I-LOC 由/O 于/O 泛/B-TAE_P 亚/I-TAE_P 有/I-TAE_P 色/I-TAE_P 金/I-TAE_P 属/I-TAE_P 交/I-TAE_P 易/I-TAE_P 所/I-TAE_P 的/O 交/O 易/O 模/O 式/O 存/O 在/O 争/O 议/O ，/O 也/O 未/O 获/O 得/O 验/O 收/O 。/O
+
+
+
+2/O 0/O 1/O 5/O 年/O 7/O 月/O 1/O 4/O 日/O ，/O 昆/B-TAE_P 明/I-TAE_P 泛/I-TAE_P 亚/I-TAE_P 有/I-TAE_P 色/I-TAE_P 金/I-TAE_P 属/I-TAE_P 交/I-TAE_P 易/I-TAE_P 所/I-TAE_P 股/I-TAE_P 份/I-TAE_P 有/I-TAE_P 限/I-TAE_P 公/I-TAE_P 司/I-TAE_P (/O 简/O 称/O 昆/B-TAE_P 明/I-TAE_P 泛/I-TAE_P 亚/I-TAE_P 有/I-TAE_P 色/I-TAE_P )/O 兑/O 付/O 出/O 现/O 问/O 题/O ，/O 涉/O 及/O 全/O 国/O 2/O 0/O 个/O 省/O 份/O ，/O 2/O 2/O 万/O 投/O 资/O 者/O ，/O 总/O 金/O 额/O 达/O 4/O 0/O 0/O 亿/O 元/O 。/O
+
+
+
+昆/B-TAE_P 明/I-TAE_P 泛/I-TAE_P 亚/I-TAE_P 有/I-TAE_P 色/I-TAE_P 于/O 2/O 0/O 1/O 2/O 年/O 4/O 月/O 擅/O 自/O 改/O 变/O 交/B-PHA 易/I-PHA 规/I-PHA 则/I-PHA ，/O 推/O 出/O “/O 委/O 托/O 受/O 托/O ”/O 业/O 务/O ，/O 在/O 未/B-TIME  /O 经/O 相/O 关/O 部/O 门/O 审/O 批/O 的/O 情/O 况/O 下/O ，/O 与/O 云/B-TAE_P 南/I-TAE_P 天/I-TAE_P 浩/I-TAE_P 稀/I-TAE_P 贵/I-TAE_P 金/I-TAE_P 属/I-TAE_P 股/I-TAE_P 份/I-TAE_P 有/I-TAE_P 限/I-TAE_P 公/I-TAE_P 司/I-TAE_P 等/O 多/O 家/O 关/O 联/O 公/O 司/O ，/O 采/O 取/O 自/O 买/O 自/O 卖/O 手/O 段/O ，/O 操/O 控/O 平/O 台/O 价/O 格/O ，/O 制/O 造/O 交/O 易/O 火/O 爆/O 假/O 象/O ，/O 同/O 时/O 昆/B-TAE_P 明/I-TAE_P 泛/I-TAE_P 亚/I-TAE_P 有/I-TAE_P 色/I-TAE_P 统/O  /O 一/O 印/O 制/O 大/O 量/O 宣/O 传/O 材/O 料/O ，/O 通/O 过/O 全/O 国/O 各/O 地/O 授/O 权/O 服/O 务/O 机/O 构/O 及/O 公/O 司/O 网/O 电/O 部/O 将/O “/O 委/O 托/O 受/O 托/O ”/O  /O 业/O 务/O 包/O 装/O 成/O “/O 日/O 金/O 宝/O ”/O  /O “/O 日/O 金/O 计/O 划/O ”/O 等/O 产/O 品/O ，/O 承/O 诺/O 1/O 0/O %/O 〜/O 1/O 3/O %/O 固/O 定/O 年/O 化/O 收/O 益/O 率/O 且/O  /O 收/O 益/O 与/O 货/O 物/O 涨/O 跌/O 无/O 关/O ，/O 向/O 社/O 会/O 不/O 特/O 定/O 人/O 群/O 吸/O 收/O 存/O 款/O ，/O 形/O 成/O 由/O 其/O 实/O 际/O 控/O 制/O 的/O “/O 资/O 金/O 池/O ”/O ，/O 套/O 取/O 大/O 量/O 现/O 金/O 。/O
+
+
+
+通/O 报/O 发/O 出/O 后/O ，/O 昆/B-TAE_P 明/I-TAE_P 泛/I-TAE_P 亚/I-TAE_P 有/I-TAE_P 色/I-TAE_P 实/O 际/O 控/O 制/O 人/O 、/O 公/O 司/O 董/O 事/O 长/O 单/B-PER 九/I-PER 良/I-PER 等/O 1/O 6/O 名/O 主/O 要/O 犯/O 罪/O 嫌/O 疑/O 人/O 已/O 被/O 昆/B-ORG 明/I-ORG 市/I-ORG 人/I-ORG 民/I-ORG 检/I-ORG 察/I-ORG 院/I-ORG 批/O 准/O 逮/O 捕/O ，/O 与/O 此/O 案/O 相/O 关/O 的/O 一/O  /O 批/O 犯/O 罪/O 嫌/O 疑/O 人/O 被/O 各/O 地/O 公/O 安/O 机/O 关/O 依/O 法/O 采/O 取/O 强/O 制/O 措/O 施/O 。/O
+
+
+
+运/O 营/O 模/O 式/O 和/O 参/O 与/O 者/O 数/O 量/O 都/O 不/O 是/O 决/O 定/O 交/O 易/O 模/O 式/O 的/O 关/O 键/O 要/O 素/O 。/O
+
+
+
+构/O 成/O 市/O 场/O 交/O 易/O 行/O 为/O 的/O 核/O 心/O 要/O 素/O 是/O 定/B-PHA 价/I-PHA ，/O 因/O 此/O ，/O 以/O 定/B-PHA 价/I-PHA 方/O 式/O 为/O 标/O 准/O 可/O 以/O 从/O 本/O 质/O 上/O 对/O 交/O 易/O 模/O 式/O 进/O 行/O 划/O 分/O 。/O
+
+
+
+根/O 据/O 定/B-PHA 价/I-PHA 方/O 式/O 可/O 以/O 将/O 大/O 宗/O 商/O 品/O 电/O 子/O 交/O 易/O 市/O 场/O 交/O 易/O 模/O 式/O 分/O 为/O 静/B-PAT 态/I-PAT 定/I-PAT 价/O 和/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 两/O 个/O 类/O 别/O 。/O
+
+
+
+（/O 1/O ）/O 静/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 类/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 。/O
+
+
+
+买/B-PER 卖/I-PER 双/I-PER 方/I-PER 以/O 实/O 物/O 商/O 品/O 交/B-PHA 收/I-PHA 为/O 目/O 的/O ，/O 采/O 用/O 协/O 商/O  /O 等/O 方/O 式/O 达/O 成/O 一/O 致/O ，/O 确/O 定/O 价/O 格/O ，/O 约/O 定/O 立/O 即/O 交/B-PHA 收/I-PHA 或/O 者/O 在/O 一/O 定/O 期/O 限/O 内/O 交/B-PHA 收/I-PHA 的/O 交/O 易/O 方/O 式/O 。/O
+
+
+
+静/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 模/I-PAT 式/I-PAT 可/O 以/O 是/O 一/O 对/O 一/O 的/O 谈/B-PAT 判/I-PAT 议/I-PAT 价/I-PAT 模/I-PAT 式/I-PAT ，/O 成/O 交/O 价/O 格/O 由/O 买/B-PER 卖/I-PER 双/I-PER 方/I-PER 商/O 议/O  /O 确/O 定/O ，/O 或/O 者/O 直/O 接/O 由/O 卖/O 方/O 一/O 口/O 价/O 确/O 定/O 。/O 也/O 可/O 以/O 是/O 一/O 对/O 多/O 、/O 多/O 对/O 一/O 、/O 多/O 对/O 多/O 的/O 挂/B-PAT 牌/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ，/O 如/O 很/O 多/O 大/O 宗/O 商/O 品/O 电/O 子/O 交/O 易/O 市/O 场/O 的/O 现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT （/O 协/B-PAT 议/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ）/O ，/O  /O 支/O 持/O 一/O 口/O 价/O 和/O 洽/O 谈/O 两/O 种/O 方/O 式/O 。/O
+
+
+
+现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT （/O 协/B-PAT 议/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ）/O 体/O 现/O 了/O 传/O 统/O 现/O 货/O 贸/O 易/O 现/O 款/O 现/O 货/O 、/O 即/O 买/O 即/O 提/O 的/O 特/O 点/O ，/O 是/O 应/O 用/O 最/O 普/O 遍/O 、/O 价/O 格/O 形/O 成/O 机/O 制/O 最/O 简/O 单/O 的/O  /O 一/O 种/O 定/O 价/O 方/O 式/O 。/O
+
+
+
+（/O 2/O ）/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 类/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 。/O
+
+
+
+动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 分/O 为/O 单/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 和/O 双/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 。/O 单/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 是/O 指/O 一/O 个/O 买/O 方/O （/O 卖/O 方/O ）/O 向/O 市/O 场/O 提/O 出/O 申/O 请/O ，/O 市/O 场/O 预/O 先/O 公/O 告/O 交/O 易/O 对/O 象/O ，/O 多/O 个/O 卖/O 方/O （/O 买/O 方/O ）/O 按/O 照/O 规/O 定/O 加/B-PHA 价/I-PHA 或/O 者/O 减/B-PHA 价/I-PHA ，/O 在/O 约/O 定/O 交/O 易/O 时/O 间/O 内/O 达/O 成/O 一/O 致/O 并/O 成/O 交/O 的/O 交/O 易/O 方/O 式/O 。/O
+
+
+
+单/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 是/O 一/O 种/O 一/O 对/O 多/O 或/O 多/O 对/O 一/O 的/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 模/I-PAT 式/I-PAT 。/O 例/O 如/O ，/O 一/O  /O 个/O 买/O 方/O 对/O 多/O 个/O 卖/O 方/O 的/O 招/B-PAT 标/I-PAT 模/I-PAT 式/I-PAT 或/O 者/O 竞/B-PAT 卖/I-PAT 模/I-PAT 式/I-PAT ；/O 一/O 个/O 卖/O 方/O 对/O 着/O 多/O 个/O 买/O 方/O 的/O 拍/B-PAT 卖/I-PAT 模/I-PAT 式/I-PAT 或/O  /O 者/O 竞/B-PAT 买/I-PAT 模/I-PAT 式/I-PAT 。/O 双/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT ，/O 是/O 指/O 由/O 买/B-PER 卖/I-PER 双/I-PER 方/I-PER 同/O 时/O 出/O 价/O ，/O 系/O 统/O 按/O 照/O 价/O 格/O 优/O 先/O 、/O 时/O 间/O 优/O 先/O 原/O 则/O ，/O 撮/B-PAT 合/I-PAT 成/I-PAT 交/I-PAT 的/O 交/O 易/O 方/O 式/O 。/O
+
+
+
+双/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 是/O 一/O 种/O 多/O 对/O 多/O 的/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 模/I-PAT 式/I-PAT 。/O 由/O  /O 于/O 交/O 易/O 效/O 率/O 高/O ，/O 发/O 现/O 价/O 格/O 能/O 力/O 强/O ，/O 期/O 货/O 交/O 易/O 所/O 和/O 证/O 券/O 交/O 易/O 所/O 多/O 采/O 用/O 这/O 种/O 交/O 易/O 模/O 式/O 。/O  /O 现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT （/O 撮/B-PAT 合/I-PAT 模/I-PAT 式/I-PAT ）/O 和/O 中/B-PAT 远/I-PAT 期/I-PAT 交/I-PAT 易/I-PAT （/O 撮/B-PAT 合/I-PAT 模/I-PAT 式/I-PAT ）/O 属/O 于/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 模/I-PAT 式/I-PAT 。/O
+
+
+
+在/O 现/O 有/O 的/O 使/O 用/O 较/O 为/O 广/O 泛/O 的/O 大/B-TAE_P 宗/I-TAE_P 商/I-TAE_P 品/I-TAE_P 电/I-TAE_P 子/I-TAE_P 交/I-TAE_P 易/I-TAE_P 市/I-TAE_P 场/I-TAE_P 交/O 易/O 模/O 式/O 中/O ，/O 现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT （/O 协/B-PAT 议/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ）/O 、/O 网/B-PAT 上/I-PAT 商/I-PAT 城/I-PAT 交/I-PAT 易/I-PAT 、/O 网/B-PAT 上/I-PAT 超/I-PAT 市/I-PAT 交/I-PAT 易/I-PAT 、/O 团/B-PAT 购/I-PAT 交/I-PAT 易/I-PAT 都/O 属/O 于/O 静/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 类/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ;/O  /O 竞/B-PAT 买/I-PAT 交/I-PAT 易/I-PAT 、/O 竞/B-PAT 卖/I-PAT 交/I-PAT 易/I-PAT 属/O 于/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 中/O 的/O 单/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT ；/O 而/O 现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT （/O 撮/B-PAT 合/I-PAT 模/I-PAT 式/I-PAT ）/O 、/O 中/B-PAT 远/I-PAT 期/I-PAT 交/I-PAT 易/I-PAT 、/O 现/B-PAT 货/I-PAT 连/I-PAT 续/I-PAT 交/I-PAT 易/I-PAT 和/O 分/B-PAT 散/I-PAT 式/I-PAT 柜/I-PAT 台/I-PAT 交/I-PAT 易/I-PAT 所/O 采/O 用/O 的/O 集/B-PAT 中/I-PAT 撮/I-PAT 合/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ，/O  /O 就/O 属/O 于/O 双/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 。/O 专/B-PAT 场/I-PAT 交/I-PAT 易/I-PAT 比/O 较/O 特/O 殊/O ，/O 后/O 面/O 会/O 详/O 细/O 介/O 绍/O
+
+
+
+《/B-POL_L 特/I-POL_L 别/I-POL_L 规/I-POL_L 定/I-POL_L 》/I-POL_L 明/O 确/O 支/O 持/O 协/B-PAT 议/I-PAT 交/I-PAT 易/I-PAT 和/O 单/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 方/O 式/O ，/O 以/O 及/O 省/B-ORG 级/I-ORG 人/I-ORG 民/I-ORG 政/I-ORG 府/I-ORG  /O 依/O 法/O 规/O 定/O 的/O 其/O 他/O 交/O 易/O 方/O 式/O 。/O
+
+
+
+其/O 中/O ，/O 协/B-PAT 议/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 就/O 是/O 我/O 们/O 这/O 里/O 所/O 说/O 的/O 静/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 模/I-PAT 式/I-PAT 。/O 单/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 方/O 式/O 是/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 模/I-PAT 式/I-PAT 中/O 的/O 一/O 种/O ，/O 而/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 模/I-PAT 式/I-PAT 中/O 的/O 双/B-PAT 向/I-PAT  竞/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 方/O 式/O 却/O 不/O 在/O 支/O 持/O 之/O 列/O 。/O
+
+
+
+由/O 于/O 3/O 8/O 号/O 文/O 《/B-POL_L 国/I-POL_L 务/I-POL_L 院/I-POL_L 关/I-POL_L 于/I-POL_L 清/I-POL_L 理/I-POL_L 整/I-POL_L 顿/I-POL_L 各/I-POL_L 类/I-POL_L 交/I-POL_L 易/I-POL_L 场/I-POL_L 所/I-POL_L 切/I-POL_L 实/I-POL_L 防/I-POL_L 范/I-POL_L 金/I-POL_L 融/I-POL_L 风/I-POL_L 险/I-POL_L 的/I-POL_L 决/I-POL_L 定/I-POL_L 》/I-POL_L 中/O 明/O 确/O 规/O 定/O “/O 不/O 得/O 采/O 取/O 集/B-PAT 中/I-PAT 竞/I-PAT 价/I-PAT 、/O 做/O 市/O 商/O 等/O 集/O 中/O 交/O 易/O 方/O 式/O 进/O 行/O 交/O 易/O ”/O ，/O 《/B-POL_L 特/I-POL_L 别/I-POL_L 规/I-POL_L 定/I-POL_L 》/I-POL_L 中/O 也/O 没/O 有/O 包/O 含/O 双/B-PAT 向/I-PAT 竞/I-PAT 价/I-PAT 这/O 种/O 交/O 易/O 模/O 式/O 。/O
+
+
+
+因/O 此/O ，/O 目/O 前/O 国/O 内/O 很/O 多/O 采/O 用/O 这/O 种/O 交/O 易/O 模/O 式/O 的/O 大/O 宗/O 商/O 品/O 电/O 子/O 交/O 易/O 市/O 场/O 处/O 于/O 比/O 较/O 尴/O 尬/O 的/O  /O 地/O 位/O ，/O 虽/O 然/O 《/B-POL_L 特/I-POL_L 别/I-POL_L 规/I-POL_L 定/I-POL_L 》/I-POL_L 中/O 通/O 过/O “/O 省/B-ORG 级/I-ORG 人/I-ORG 民/I-ORG 政/I-ORG 府/I-ORG 依/O 法/O 规/O 定/O 的/O 其/O 他/O 交/O 易/O 方/O 式/O ”/O ， 为/O 这/O 类/O 交/O 易/O 模/O 式/O 留/O 了/O 一/O 定/O 的/O 空/O 间/O 和/O 出/O 口/O ，/O 但/O 是/O 目/O 前/O 仍/O 然/O 不/O 属/O 于/O 主/O 流/O 或/O 者/O 国/O 家/O 鼓/O 励/O 和/O 推/O 荐/O 的/O 交/O 易/O 模/O 式/O 。/O
+
+
+
+下/O 面/O 就/O 对/O 现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT 、/O 网/B-PAT 上/I-PAT 商/I-PAT 城/I-PAT 交/I-PAT 易/I-PAT 、/O 网/B-PAT 上/I-PAT 超/I-PAT 市/I-PAT 交/I-PAT 易/I-PAT 、/O 团/B-PAT 购/I-PAT 交/I-PAT 易/I-PAT 、/O 竞/B-PAT 买/I-PAT 交/I-PAT 易/I-PAT （/O 竞/B-PAT 价/I-PAT 拍/I-PAT 卖/I-PAT 交/I-PAT 易/I-PAT ）/O 、/O 竞/B-PAT 卖/I-PAT 交/I-PAT 易/I-PAT （/O 竞/B-PAT 价/I-PAT 招/I-PAT 投/I-PAT 标/I-PAT 交/I-PAT 易/I-PAT ）/O 、/O 现/B-PAT 货/I-PAT 中/I-PAT 远/I-PAT 期/I-PAT 交/I-PAT 易/I-PAT 、/O 现/B-PAT 货/I-PAT 连/I-PAT 续/I-PAT 交/I-PAT 易/I-PAT 、/O 分/B-PAT 散/I-PAT 式/I-PAT 柜/I-PAT 台/I-PAT 交/I-PAT 易/I-PAT 、/O 专/B-PAT 场/I-PAT 交/I-PAT 易/I-PAT 等/O 1/O 0/O 种/O 交/O 易/O 模/O 式/O 进/O 行/O 简/O 要/O 的/O 介/O 绍/O 。/O
+
+
+
+现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT 按/O 照/O 成/O 交/O 机/O 制/O ，/O 可/O 分/O 为/O 协/B-PAT 议/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 的/O 现/O 货/O 挂/O 牌/O 交/O 易/O 和/O 集/B-PAT 中/I-PAT 撮/I-PAT 合/I-PAT 方/O 式/O 的/O 现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT ，/O 前/O 者/O 属/O 于/O 静/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ，/O 后/O 者/O 属/O 于/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 。/O
+
+
+
+现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT （/O 协/B-PAT 议/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ）/O 可/O 分/O 为/O  /O 现/B-PAT 货/I-PAT 卖/I-PAT 方/I-PAT 挂/I-PAT 牌/I-PAT （/O 挂/B-PAT 卖/I-PAT 盘/I-PAT ）/O 和/O 现/B-PAT 货/I-PAT 买/I-PAT 方/I-PAT 挂/I-PAT 牌/I-PAT （/O 挂/B-PAT 买/I-PAT 盘/I-PAT ）/O ，/O 属/O 于/O 一/O 对/O 多/O 、/O 多/O 对/O 一/O 、/O 多/O 对/O  /O 多/O 静/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 。/O
+
+
+
+在/O 实/O 际/O 应/O 用/O 中/O ，/O 卖/B-PAT 方/I-PAT 挂/I-PAT 牌/I-PAT 更/O 为/O 普/O 遍/O 。/O
+
+
+
+以/O 卖/B-PAT 方/I-PAT 挂/I-PAT 牌/I-PAT 为/O 例/O ，/O 卖/O 方/O 交/O 易/O 商/O 首/O 先/O 进/O 行/O 现/O 货/O 挂/O 牌/O 要/O 约/O （/O 卖/B-PAT 方/I-PAT 挂/I-PAT 牌/I-PAT ）/O ；/O 感/O 兴/O 趣/O 的/O 采/O 购/O 商/O 查/O 阅/O 到/O 挂/O 牌/O 要/O 约/O 信/O 息/O 后/O ，/O 可/O 以/O 应/O 约/O （/O 买/B-PHA 方/I-PHA 摘/I-PHA 牌/I-PHA ）/O ，/O 即/O 通/O 过/O 交/O 易/O 系/O 统/O 自/O 动/O 签/O 署/O 电/O 子/O 合/O 同/O （/O 双/O 方/O 可/O 以/O 根/O 据/O  /O 需/O 要/O 打/O 印/O 纸/O 质/O 合/O 同/O ，/O 并/O 签/O 字/O 盖/O 章/O ）/O ，/O 进/O 入/O 货/O 物/O 交/B-PHA 收/I-PHA 和/O 结/B-PHA 算/I-PHA ；/O 如/O 果/O 无/O 人/O 摘/B-PHA 牌/I-PHA 或/O 其/O 他/O 原/O  /O 因/O ，/O 卖/O 方/O 可/O 以/O 选/O 择/O 撤/O 销/O 挂/O 牌/O （/O 卖/B-PHA 方/I-PHA 撤/I-PHA 牌/I-PHA ）/O 。/O
+
+
+
+其/O 流/O 程/O 为/O ：/O 卖/B-PAT 方/I-PAT 挂/I-PAT 牌/I-PAT 一/O 买/B-PHA 方/I-PHA 摘/I-PHA 牌/I-PHA 一/O 卖/B-PHA 方/I-PHA 撤/I-PHA 牌/I-PHA 。/O
+
+
+
+现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 可/O 分/O 为/O ：/O 允/B-PAT 许/I-PAT 洽/I-PAT 谈/I-PAT 议/I-PAT 价/I-PAT 挂/I-PAT 牌/I-PAT 和/O 不/B-PAT 允/I-PAT 许/I-PAT 议/I-PAT 价/I-PAT 一/I-PAT 口/I-PAT 价/I-PAT 挂/I-PAT 牌/I-PAT 两/O 种/O 方/O 式/O 。/O
+
+
+
+现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT （/O 协/B-PAT 议/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ）/O 是/O 大/O 宗/O 商/O 品/O 电/O 子/O 交/O 易/O 市/O 场/O 最/O 基/O 础/O 的/O 一/O 种/O 交/O 易/O 模/O 式/O ，/O 符/O 合/O 一/O 手/O 交/O 钱/O 、/O 一/O 手/O 交/O 货/O 的/O 传/O 统/O 现/O 货/O 贸/O 易/O 习/O 惯/O 。/O
+
+
+
+在/O 消/O 费/O 品/O 领/O 域/O ，/O 网/O 上/O 商/O 城/O  /O 的/O 各/O 店/O 铺/O 的/O 产/O 品/O 挂/O 牌/O 销/O 售/O ，/O 本/O 质/O 上/O 都/O 是/O 一/O 种/O 现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT （/O 协/B-PAT 议/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ）/O 。/O
+
+
+
+需/O 要/O 注/O 意/O 的/O 是/O ，/O 在/O 实/O 际/O 应/O 用/O 中/O ，/O 很/O 多/O 大/O 宗/O 商/O 品/O 电/O 子/O 交/O 易/O 市/O 场/O 的/O 现/B-PAT 货/I-PAT 中/I-PAT 远/I-PAT 期/I-PAT 交/I-PAT 易/I-PAT 和/O 现/B-PAT 货/I-PAT 连/I-PAT 续/I-PAT 交/I-PAT 易/I-PAT ，/O 也/O 笼/O 统/O 地/O 称/O 为/O 现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT ，/O 这/O 两/O 种/O 交/O 易/O 从/O 成/O 交/O 机/O 制/O 上/O 看/O ，都/O 采/O 用/O 了/O 集/B-PAT 中/I-PAT 撮/I-PAT 合/I-PAT 方/O 式/O ，/O 对/O 交/O 收/O 时/O 间/O 和/O 交/O 收/O 方/O 式/O 的/O 要/O 求/O 也/O 有/O 很/O 大/O 不/O 同/O ，/O 与/O 本/O 书/O 所/O  /O 说/O 的/O 现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT （/O 协/B-PAT 议/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT ）不/O 同/O ，/O 属/O 于/O 多/O 对/O 多/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 。/O
+
+
+
+现/B-PAT 货/I-PAT 挂/I-PAT 牌/I-PAT 交/I-PAT 易/I-PAT （/O 集/B-PAT 中/I-PAT 撮/I-PAT 合/I-PAT 模/I-PAT 式/I-PAT ）/O 分/O 为/O 卖/B-PAT 方/I-PAT 挂/I-PAT 牌/I-PAT （/O 现/B-PAT 货/I-PAT 要/I-PAT 约/I-PAT 销/I-PAT 售/I-PAT ）/O 和/O 买/B-PAT 方/I-PAT 挂/I-PAT 牌/I-PAT （/O 现/B-PAT 货/I-PAT 要/I-PAT 约/I-PAT 采/I-PAT 购/I-PAT ）/O 两/O 种/O ，/O 属/O 于/O 多/O 对/O 多/O 动/B-PAT 态/I-PAT 定/I-PAT 价/I-PAT 交/I-PAT 易/I-PAT 模/I-PAT 式/I-PAT 。/O
+
+
+
+要/B-PHA 约/I-PHA 销/I-PHA 售/I-PHA 是/O 在/O 大/O 宗/O 商/O 品/O 电/O 子/O 交/O 易/O 市/O 场/O 规/O 定/O 的/O 可/O 交/O 易/O 现/O 货/O 商/O 品/O 范/O 围/O 内/O ，/O  /O 由/O 卖/O 方/O 交/O 易/O 商/O 填/O 写/O 、/O 发/O 布/O 要/O 约/O 销/O 售/O 商/O 品/O 报/O 单/O 详/O 细/O 信/O 息/O ，/O 买/O 方/O 进/O 行/O 应/O 约/O 。/O
+
+
+
+如/O 果/O 买/O 方/O  /O 交/O 易/O 商/O 应/O 约/O 价/O 格/O 大/O 于/O 等/O 于/O 卖/O 方/O 要/O 约/O 报/O 价/O 时/O ，/O 交/O 易/O 系/O 统/O 按/O 照/O 应/O 约/O 价/O 格/O （/O 高/O ）/O 优/O 先/O 、/O  /O 数/O 量/O 优/O 先/O 、/O 时/O 间/O 优/O 先/O 的/O 原/O 则/O 自/O 动/O 成/O 交/O 。/O
+
+
+
+对/O 于/O 不/O 能/O 自/O 动/O 成/O 交/O 的/O 应/O 约/O （/O 买/O 方/O 应/O 约/O 价/O 格/O  /O 小/O 于/O 卖/O 方/O 要/O 约/O 报/O 价/O ）/O ，/O 卖/O 方/O 交/O 易/O 商/O 可/O 以/O 选/O 择/O 买/O 方/O 的/O 应/O 约/O 与/O 其/O 成/O 交/O 。/O
+
+
+
+要/B-PHA 约/I-PHA 采/I-PHA 购/I-PHA 是/O 在/O 交/O 易/O 中/O 心/O 规/O 定/O 的/O 可/O 交/O 易/O 现/O 货/O 商/O 品/O 范/O 围/O 内/O ，/O 由/O 买/O 方/O 交/O 易/O 商/O 填/O 写/O 、/O 发/O 布/O 要/O 约/O 采/O 购/O 商/O 品/O 报/O 单/O 详/O 细/O 信/O 息/O ，/O 卖/O 方/O 进/O 行/O 应/O 约/O 。/O
+
+
+
+如/O 果/O 卖/O 方/O 交/O 易/O 商/O 应/O 约/O 价/O 格/O 小/O 于/O 等/O 于/O  /O 买/O 方/O 要/O 约/O 报/O 价/O 时/O ，/O 交/O 易/O 系/O 统/O 按/O 照/O 应/O 约/O 价/O 格/O （/O 低/O ）/O 优/O 先/O 、/O 数/O 量/O 优/O 先/O 、/O 时/O 间/O 优/O 先/O 的/O 原/O  /O 则/O 自/O 动/O 成/O 交/O 。/O
+
+
+
+对/O 于/O 不/O 能/O 自/O 动/O 成/O 交/O 的/O 应/O 约/O （/O 卖/O 方/O 应/O 约/O 价/O 格/O 大/O 于/O 买/O 方/O 要/O 约/O 报/O 价/O ）/O ，/O 买/O 方/O 交/O 易/O 商/O 可/O 以/O 选/O 择/O 卖/O 方/O 的/O 应/O 约/O 与/O 其/O 成/O 交/O 。/O

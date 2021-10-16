@@ -1,0 +1,43 @@
+2021-05-18 09:11:55
+++++++++++++++++++++++++++++++++++++++++CONFIGURATION SUMMARY++++++++++++++++++++++++++++++++++++++++
+ Status:
+     mode                 : train
+ ++++++++++++++++++++++++++++++++++++++++
+ Datasets:
+     datasets         fold: data/dazong_datasets
+     train            file: data.csv
+     validation       file: None
+     vocab             dir: data/dazong_datasets/vocabs
+     delimiter            : b
+     use              bert: False
+     checkpoints       dir: checkpoints/datasets-bilstm-crf
+     log               dir: data/dazong_datasets/logs
+ ++++++++++++++++++++++++++++++++++++++++
+Labeling Scheme:
+     label          scheme: BIO
+     label           level: 2
+     suffixes             : ['TAE', 'TAE_P', 'TAE_B', 'TAE_S', 'COM', 'COM_T1', 'COM_T2', 'COM_T3', 'COM_T4', 'COM_T5', 'TIME', 'POL', 'POL_L', 'POL_P', 'POL_B', 'LOC', 'ORG', 'PAT', 'PHA', 'JOU', 'PER']
+     measuring     metrics: ['precision', 'recall', 'f1', 'accuracy']
+ ++++++++++++++++++++++++++++++++++++++++
+Model Configuration:
+     embedding         dim: 300
+     max  sequence  length: 300
+     hidden            dim: 200
+     CUDA  VISIBLE  DEVICE: 0
+     seed                 : 42
+ ++++++++++++++++++++++++++++++++++++++++
+ Training Settings:
+     epoch                : 300
+     batch            size: 20
+     dropout              : 0.5
+     learning         rate: 0.001
+     optimizer            : Adagrad
+     checkpoint       name: model
+     max       checkpoints: 3
+     print       per_batch: 20
+     is     early     stop: False
+     patient              : 5
+++++++++++++++++++++++++++++++++++++++++CONFIGURATION SUMMARY END++++++++++++++++++++++++++++++++++++++++
+loading vocab...
+dataManager initialed...
+mode: train
